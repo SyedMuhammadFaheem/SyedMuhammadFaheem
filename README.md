@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmuhammadfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="syedmuhammadfaheem" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fahimsaggittarius" target="blank"><img src="https://img.shields.io/twitter/follow/fahimsaggittarius?logo=twitter&style=for-the-badge" alt="fahimsaggittarius" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fahimspangle" target="blank"><img src="https://img.shields.io/twitter/follow/fahimspangle?logo=twitter&style=for-the-badge" alt="fahimspangle" /></a> </p>
 
 - 🔭 I’m currently working on [Data Analysis on Covid Stats](https://github.com/SyedMuhammadFaheem/DataAnalysisOnCovidStats)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fahimsaggittarius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimsaggittarius" height="30" width="40" /></a>
+<a href="https://twitter.com/fahimspangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimspangle" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammadfaheemnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfaheemnu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18513533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18513533" height="30" width="40" /></a>
 <a href="https://fb.com/fahim.saggittarius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahim.saggittarius" height="30" width="40" /></a>
