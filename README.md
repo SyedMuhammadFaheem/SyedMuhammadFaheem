@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadfaheem" alt="syedmuhammadfaheem" /></a> </p>
 
-- 🔭 I’m currently working on [Instagram Clone with MERN Stack](https://github.com/SyedMuhammadFaheem/DataAnalysisOnCovidStats)
+- 🔭 I’m currently working on [Instagram Clone with MERN Stack]()
 
 - 🌱 I’m currently learning **MERN Stack, iOS Development (Swift), Blockchain Development**
 
