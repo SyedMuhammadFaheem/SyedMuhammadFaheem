@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faheem</h1>
-<h3 align="center">C++ and Web Developer | iOS App Development Enthusiast | Machine and Deep Learning Enthusiast | Block Chain Enthusiast</h3>
+<h3 align="center">C/C++/Python/JS | Web/App Developer | iOS App Development | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmuhammadfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="syedmuhammadfaheem" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Instagram Clone with MERN Stack]()
 
-- 🌱 I’m currently learning **MERN Stack, iOS Development (Swift), Blockchain Development**
+- 🌱 I’m currently learning **MERN Stack, iOS Development (Swift)**
 
 - 👯 I’m looking to collaborate on **different types of projects related to App/Web Development, Data Science, Machine and Deep Learning**
 
-- 💬 Ask me about **C,C++,MySQL | Speed Programming**
+- 💬 Ask me about **C,C++,Python,MySQL | Speed Programming**
 
 - 📫 How to reach me **syed.faheem.official@gmail.com**
 
