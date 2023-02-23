@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faheem</h1>
-<h3 align="center">C++/Python/JS | Web/App Developer | iOS App Development | Data Science</h3>
+<h3 align="center">C++/Python | Web/App Developer | iOS App Development | Data Science</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Data Science and Aritifical Intelligence<br><br>🌱 I’m currently learning MERN Stack, iOS Development (Swift)<br><br>👯 I’m looking to collaborate on different types of projects related to App/Web Development, Data Science, Machine and Deep Learning<br><br>💬 Ask me about C,C++,Python,MySQL | Speed Programming<br><br>📫 How to reach me syed.faheem.official@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1_OcvzgNfFr4tjFgotDhenRtcjnBNneNy/view?usp=sharing<br><br>⚡ Fun fact I like to explore, learn, and play cricket and video games.
