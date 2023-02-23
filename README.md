@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faheem</h1>
+<h1 align="center">Hey 👋, I'm Muhammad Faheem</h1>
 <h3 align="center">C++/Python | Web/App Developer | iOS App Development | Data Science</h3>
 
 # 💫 About Me:
