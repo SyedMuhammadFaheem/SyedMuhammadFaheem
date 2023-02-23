@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **syed.faheem.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_OcvzgNfFr4tjFgotDhenRtcjnBNneNy/view?usp=sharing]
+- 📄 Know about my experiences https://drive.google.com/file/d/1_OcvzgNfFr4tjFgotDhenRtcjnBNneNy/view?usp=sharing
 
 - ⚡ Fun fact **I like to explore, learn, play cricket, video games.**
 
