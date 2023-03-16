@@ -10,7 +10,7 @@
 
 # ✍🏻 Blogs and Aricles:
 <ul>
-  <li>[How to implement the Boolean Retrieval Model?](https://medium.com/@syed.faheem.official/how-to-implement-the-boolean-retrieval-model-610e2776f2b6)</li>
+  <li>[Boolean Retrieval Model](https://medium.com/@syed.faheem.official/how-to-implement-the-boolean-retrieval-model-610e2776f2b6)</li>
 </ul>
 <br>
 
