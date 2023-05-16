@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone👋, I'm Muhammad Faheem</h1>
+<h1 align="center">Hey Everyone 👋</h1>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Myself+Muhammad+Faheem!;Welcome+to+my+GitHub+Profile!;I'm+a+Web+and+App+Developer;I'm+a+DataScience+and+Machine+Learning+Enthusiast" /></a>
 </p>
