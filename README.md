@@ -1,8 +1,11 @@
-<h1 align="center">Hey 👋, I'm Muhammad Faheem</h1>
+<h1 align="center">Hey Everyone👋, I'm Muhammad Faheem</h1>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Myself+Muhammad+Faheem;Welcome+to+my+GitHub+Profile!;I'm+a+Web+and+App+developer;I'm+a+DataScience+and+ML+Enthusiast" /></a>
+</p>
 <h3 align="center">C++/Python | Web/App Development | iOS App Development | Data Science | FAST'24</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science and Aritifical Intelligence<br><br>🌱 I’m currently learning MERN Stack, iOS Development (Swift)<br><br>👯 I’m looking to collaborate on different types of projects related to App/Web Development, Data Science, Machine and Deep Learning<br><br>💬 Ask me about C, C++, Python, MySQL | Speed Programming<br><br>📫 How to reach me syed.faheem.official@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1doEbZ60u56O1YYp27x77WlxpqnnmJPBk/view?usp=share_link<br><br>⚡ Fun fact I like to explore, learn, and play cricket and video games.
+🔭 I’m currently working on Data Science and Aritifical Intelligence<br><br>🌱 I’m currently learning MERN Stack, iOS Development (Swift)<br><br>👯 I’m looking to collaborate on different types of projects related to App/Web Development, Data Science, Machine and Deep Learning<br><br>💬 Ask me about C, C++, Python, MySQL | Speed Programming<br><br>📫 How to reach me syed.faheem.official@gmail.com<br><br>📄 Know about my experiences <a href='https://drive.google.com/file/d/1doEbZ60u56O1YYp27x77WlxpqnnmJPBk/view?usp=share_link'>my resume</a><br><br>⚡ Fun fact I like to explore, learn, and play cricket and video games.
 
 
 ## 🌐 Socials:
@@ -10,7 +13,7 @@
 
 # ✍🏻 Blogs and Articles:
 <ul>
-  <li>![Boolean Retrieval Model] (https://medium.com/@syed.faheem.official/how-to-implement-the-boolean-retrieval-model-610e2776f2b6)</li>
+  <li><a href='https://medium.com/@syed.faheem.official/how-to-implement-the-boolean-retrieval-model-610e2776f2b6'>Boolean Retrieval Model</a></li>
 </ul>
 <br>
 
