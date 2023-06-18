@@ -14,6 +14,7 @@
 # ✍🏻 Blogs and Articles:
 <ul>
   <li><a href='https://medium.com/@syed.faheem.official/how-to-implement-the-boolean-retrieval-model-610e2776f2b6'>Boolean Retrieval Model</a></li>
+  <li><a href='https://medium.com/@syed.faheem.official/how-to-set-up-github-on-macos-b6950728737c'>How to set up Github on MacOS?</a></li>
 </ul>
 <br>
 
