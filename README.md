@@ -5,7 +5,7 @@
 <h3 align="center">Web/App Development | FAST'24</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Security, Web RTC and Server side Development<br><br>🌱 I’m currently learning MERN Stack, iOS Development (Swift)<br><br>👯 I’m looking to collaborate on different types of projects related to App/Web Development, Data Science, Machine and Deep Learning<br><br>💬 Ask me about C++, Python, MySQL | Speed Programming<br><br>📫 How to reach me syed.faheem.official@gmail.com<br><br>📄 Know about my experiences <a href='https://drive.google.com/file/d/1l4RF7wWxMxfXBNTQx3HKbzJGDOuSV6Pz/view?usp=sharing'>my resume</a><br><br>⚡ Fun fact I like to explore, learn, and play cricket and video games.
+🔭 I’m currently working on Web Security, Web RTC and Server side Development<br><br>🌱 I’m currently learning MERN Stack, iOS Development (Swift)<br><br>👯 I’m looking to collaborate on different types of projects related to App/Web Development, Data Science, Machine and Deep Learning<br><br>💬 Ask me about Competitive Programming and Databases | Speed Programming<br><br>📫 How to reach me syed.faheem.official@gmail.com<br><br>📄 Know about my experiences <a href='https://drive.google.com/file/d/1l4RF7wWxMxfXBNTQx3HKbzJGDOuSV6Pz/view?usp=sharing'>my resume</a><br><br>⚡ Fun fact I like to explore, learn, and play cricket and video games.
 
 
 ## 🌐 Socials:
