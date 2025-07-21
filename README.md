@@ -15,6 +15,7 @@
 <ul>
   <li><a href='https://medium.com/@syed.faheem.official/how-to-implement-the-boolean-retrieval-model-610e2776f2b6'>Boolean Retrieval Model</a></li>
   <li><a href='https://medium.com/@syed.faheem.official/how-to-set-up-github-on-macos-b6950728737c'>How to set up Github on MacOS?</a></li>
+  <li><a href='https://medium.com/@syed.faheem.official/strapi-comments-plugin-7dfa4106cdb1'>Strapi Comments Plugin - POC</a></li>
 </ul>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clustering-urdu-news-using-headlines/text-clustering-on-urdu-news-headlines)](https://paperswithcode.com/sota/text-clustering-on-urdu-news-headlines?p=clustering-urdu-news-using-headlines)
